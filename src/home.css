@@ -1,0 +1,22 @@
+#navbar{
+    position: relative;
+    top:-25px;
+    height:100px;
+    background-color: rgb(53, 32, 32);
+}
+#heading{
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+}
+#hover{
+
+}
+#imagehover{
+    width:12%;
+    height:13%
+}
+#imagehover:hover{
+    width:25%;
+    height:20%
+}
